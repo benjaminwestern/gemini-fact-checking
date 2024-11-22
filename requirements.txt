@@ -1,0 +1,7 @@
+streamlit
+google-cloud-aiplatform
+vertexai
+typing-extensions
+python-dotenv
+asyncio
+concurrent-futures
